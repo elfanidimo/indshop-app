@@ -2,4 +2,4 @@
 :HL["/indshop-app/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"(app)","h":96,"c":"$Q2"}]]
-0:{"b":"to_c1FWVWt2ksASsQ6mm0","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Ik1WjMcN8Kaf40rCC4CvD","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
