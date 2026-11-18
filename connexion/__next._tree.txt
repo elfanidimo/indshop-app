@@ -1,5 +1,5 @@
-:HL["/indshop-app/_next/static/chunks/37nwq0bxcg6n3.css","style"]
+:HL["/indshop-app/_next/static/chunks/2f7xue3t0uv1x.css","style"]
 :HL["/indshop-app/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"connexion","h":96,"c":"$Q2"}]]
-0:{"b":"VoUlbdUNfylSyrHuXVcZ8","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"bJPD5iCNydn13CqbveKMw","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
