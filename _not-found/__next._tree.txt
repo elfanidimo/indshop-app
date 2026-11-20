@@ -1,4 +1,4 @@
-:HL["/indshop-app/_next/static/chunks/3ps2ix32dawrm.css","style"]
+:HL["/indshop-app/_next/static/chunks/1v2c6kgvq09db.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"xGfTlBH3UEfkif4MDmG3s","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"-7xfPZQoDbYWCo4yuk7M7","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
