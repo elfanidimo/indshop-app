@@ -3,4 +3,4 @@
 :HL["/indshop-app/_next/static/media/2537dffe910bb2e4-s.p.28efgb-r-zxeb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"connexion","h":96,"c":"$Q2"}]]
-0:{"b":"sb8utNg0gK_xz6vr_h3yp","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"P4RzyJhHcZf34dT8JN218","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
