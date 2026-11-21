@@ -1,8 +1,8 @@
-:HL["/indshop-app/_next/static/chunks/1tm7q9g2r516f.css","style"]
+:HL["/indshop-app/_next/static/chunks/1y_tm7zozpoh-.css","style"]
 :HL["/indshop-app/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/indshop-app/_next/static/media/2537dffe910bb2e4-s.p.28efgb-r-zxeb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 4:[["children",{"s":"__PAGE__","h":160}]]
 3:[["children",{"s":"article","h":96,"c":"$Q4"}]]
 2:[["children",{"s":"stock","h":96,"c":"$Q3"}]]
 1:[["children",{"s":"(app)","h":96,"c":"$Q2"}]]
-0:{"b":"TX26hKCP1ALR7I0WiJSbg","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"Lvc_UZbx986oO0JSAitMz","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
