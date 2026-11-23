@@ -1,6 +1,6 @@
-:HL["/indshop-app/_next/static/chunks/1-s8ex7jlf002.css","style"]
+:HL["/indshop-app/_next/static/chunks/0o93cilt3z552.css","style"]
 :HL["/indshop-app/_next/static/media/07c7676b89ed2778-s.p.2bn3s6zvc0dyp.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 :HL["/indshop-app/_next/static/media/2537dffe910bb2e4-s.p.28efgb-r-zxeb.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"(app)","h":96,"c":"$Q2"}]]
-0:{"b":"5iJL6yxoT5oE6oXgrwVTc","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"BmCTLjomummGOLOvMyCrA","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
