@@ -1,4 +1,4 @@
 :HL["/indshop-app/_next/static/chunks/1_gckyng2ribf.css","style"]
 2:[["children",{"s":"__PAGE__","h":160}]]
 1:[["children",{"s":"/_not-found","h":96,"c":"$Q2"}]]
-0:{"b":"I1vYw_0tYlUw9JwBYaKlB","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
+0:{"b":"4niM7-t6XkH8dW1Rmm1QB","t":{"t":{"s":"","h":80,"c":"$Q1"}}}
